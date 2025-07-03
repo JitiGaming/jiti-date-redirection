@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Jiti Date Redirection
-Description: Redirige les anciennes URLs /annee/mois/slug-obsolete/ vers la nouvelle URL si le slug a changé.
+Description: Redirige les URLs avec des dates lors d'un changement de date et de slug.
 Version: 1.0
 Author: Jiti
 Author URI: https://jiti.me
